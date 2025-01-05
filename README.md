@@ -8,4 +8,4 @@ This is a simple e-commerce website built using HTML, CSS, and JavaScript. It fe
 - Responsive design
 
 ## Live Demo
-[View the live website](https://your-username.github.io/e-commerce-website)
+[View the live website](https://undelasreenivasulareddy.github.io/e-commerce-website/)
